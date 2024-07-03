@@ -10,7 +10,7 @@
       </figure>
     </center>
 
-<hr width="410">
+<hr width="400">
 <ul>
   <li>🔭 I’m currently working part-time.</li>
   <li>🌱 I’m currently learning javascript & GitHub.</li>
