@@ -5,7 +5,7 @@
     <center>
       <figure>
         <figcaption>
-          <p><em>&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my business coding partner</em></p>
+          <p><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is my business coding partner</em></p>
         </figcaption>
       </figure>
     </center>
