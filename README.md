@@ -18,4 +18,7 @@
   <li>📫 How to reach me: cristian.dpto23@gmail.com</li>
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I once walked an entire island in one day.</li>
-</ul>
+</ul><br>
+
+[![Static Badge](https://img.shields.io/badge/mail-cristian.dpto23%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&label=mail)](mailto:cristian.dpto23@gmail.coom)
+
