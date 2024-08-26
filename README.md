@@ -21,7 +21,7 @@
   <li>⚡ Fun fact: I once walked an entire island in one day.</li>
 </ul><br>
 <p align="center">
-<img src="https://img.shields.io/badge/mail-cristian.dpto23%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&label=mail">
+<a href="mailto:cristia.dpto23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-cristian.dpto23%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&label=mail"></a>
 </p>
 
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,md,regex,bootstrap" /></a></p>
