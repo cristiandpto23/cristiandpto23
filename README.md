@@ -20,6 +20,13 @@
   <li>😄 Pronouns: He/Him</li>
   <li>⚡ Fun fact: I once walked an entire island in one day.</li>
 </ul><br>
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<br>
 <p align="center">
 <a href="mailto:cristian.dpto23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-cristian.dpto23%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&label=mail"></a>
 </p>
