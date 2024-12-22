@@ -14,7 +14,7 @@
 
 <ul>
   <li>🔭 I’m currently working on writing my script</li>
-  <li>🌱 I’m currently learning JavaScript & GitHub Actions.</li>
+  <li>🌱 I’m currently learning React & QA Testing.</li>
   <li>💬 Ask me about movies.</li>
   <li>📫 How to reach me: <a href="mailto:cristian.dpto23@gmail.com">cristian.dpto23@gmail.com</a></li>
   <li>😄 Pronouns: He/Him</li>
