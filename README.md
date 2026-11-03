@@ -26,6 +26,15 @@
 
 <!--RECENT_ACTIVITY:last_update-->
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+
 <br>
 <p align="center">
 <a href="mailto:cristian.dpto23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mail-cristian.dpto23%40gmail.com-brightgreen?style=for-the-badge&logo=gmail&label=mail"></a>
@@ -37,10 +46,3 @@
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
