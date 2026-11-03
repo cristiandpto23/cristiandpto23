@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋 I'm ✨cristiandpto23✨</h1>
+<div width="600">
+  <h1 align="center">Hi there 👋 I'm ✨cristiandpto23✨</h1>
+</div>
 
 
 <div align="center">
@@ -21,7 +23,8 @@
 <table border="0">
   <tr>
     <td align="left" width="450">
-      <h3>💬 &nbsp; *About me ....*</h3>
+      <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; *About me ....*</h3>
+      <br>
       <ul>
         <li>🔭 I’m currently working on writing my script</li>
         <li>🌱 I’m currently learning React & QA Testing.</li>
@@ -30,6 +33,7 @@
         <li>😄 Pronouns: He/Him</li>
         <li>⚡ Fun fact: I once walked an entire island in one day.</li>
       </ul>
+      <br>
     </td>
     <td align="center" width="200">
       <img width="180" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
