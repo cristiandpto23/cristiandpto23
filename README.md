@@ -12,17 +12,32 @@
 
 <div align="center"><hr width="600"></div>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="margin-right: 100px;" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-<ul>
-  <li>🔭 I’m currently working on writing my script</li>
-  <li>🌱 I’m currently learning React & QA Testing.</li>
-  <li>💬 Ask me about movies.</li>
-  <li>📫 How to reach me: <a href="mailto:cristian.dpto23@gmail.com">cristian.dpto23@gmail.com</a></li>
-  <li>😄 Pronouns: He/Him</li>
-  <li>⚡ Fun fact: I once walked an entire island in one day.</li>
-</ul>
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....*** -->
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td align="left" width="450">
+      <h3>💬 &nbsp; *About me ....*</h3>
+      <ul>
+        <li>🔭 I’m currently working on writing my script</li>
+        <li>🌱 I’m currently learning React & QA Testing.</li>
+        <li>💬 Ask me about movies.</li>
+        <li>📫 How to reach me: <a href="mailto:cristian.dpto23@gmail.com">cristian.dpto23@gmail.com</a></li>
+        <li>😄 Pronouns: He/Him</li>
+        <li>⚡ Fun fact: I once walked an entire island in one day.</li>
+      </ul>
+    </td>
+    <td align="center" width="200">
+      <img width="180" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+    </td>
+  </tr>
+</table>
+
+</div>
 <br>
 
 ### :zap: Actividad reciente
