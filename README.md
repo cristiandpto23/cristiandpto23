@@ -34,3 +34,13 @@
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,md,regex,bootstrap" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu" /></a></p>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ps,pr,au,xd,instagram,wordpress,notion" /></a></p>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristiandpto23/cristiandpto23/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
